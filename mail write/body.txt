@@ -1,0 +1,8 @@
+vand1ng0: of course Latin-1 works; it'll 
+work for any file regardless of what the 
+actual encoding of the file is. That's because 
+all 256 possible byte values in a file have a Latin-1 
+codepoint to map to, but that doesn't mean you get legible 
+results! If you don't know the encoding, even opening the 
+file in
+ binary mode instead might be better than assumin

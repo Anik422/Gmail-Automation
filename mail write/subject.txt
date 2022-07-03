@@ -1,0 +1,1 @@
+binary mode instead might be better than assumin
